@@ -10,3 +10,4 @@ def solution(s):
 
 print(solution('1234'))
 print(solution('-24798'))
+
